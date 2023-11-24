@@ -1,3 +1,4 @@
+# Important Notice :  No need to use this, wp-scripts now supports Typescript
 # Scripts
 
 This is a collection of reusable scripts tailored for WordPress development. For convenience, every tool provided in this package comes with an integrated recommended configuration.
